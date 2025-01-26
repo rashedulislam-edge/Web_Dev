@@ -1,0 +1,46 @@
+.border {
+  border: 5px solid rgb(35, 7, 63);
+  background: teal;
+  margin: 10px;
+  padding: 10px;
+}
+.flag-size {
+  width: 320px;
+  height: 160px;
+}
+.color-green {
+  background: rgb(50, 3, 93);
+  color: white;
+  font-weight: 500;
+  font-family: "Franklin Gothic Medium", sans-serif;
+  padding: 4px;
+  border-radius: 4px;
+}
+.color-purple {
+  background: purple;
+  color: white;
+  font-weight: 600;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  padding: 4px;
+  border-radius: 4px;
+}
+.visited-btn {
+  background: green;
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", sans-serif;
+  padding: 4px;
+  border-radius: 4px;
+  border: none;
+}
+.non-visited-btn {
+  background: rgb(179, 2, 2);
+  color: white;
+  font-weight: 500;
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", sans-serif;
+  padding: 4px;
+  border-radius: 4px;
+  border: none;
+}
